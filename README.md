@@ -72,20 +72,20 @@
       </p>
     </header>
 
-    <section class="section catalogue">
+    <section class="catalogue">
       <h2>Music Catalogue</h2>
       <a href="https://open.spotify.com/album/2Aye7WZKwkIhswNgH3bodN?si=CSiEFKaQS5-FVxz_U-UY8A" target="_blank">
-        Album - Périple
+        Soren Blu - Chill One
       </a>
       <a href="https://open.spotify.com/track/7eir0ozDwWYB0RHVye3agQ?si=H-eaoS64RC6bitrzebdJTA" target="_blank">
-        Track - Loup
+        Soren Blu - Nirvana
       </a>
       <a href="https://open.spotify.com/album/2mEUw3aVjFogXoAYOgMCi1?si=MaWZu5yzQ_OXDUllsiffVQ" target="_blank">
-        Album - Étoiles noires
+        Soren Blu - Cheze Tena
       </a>
     </section>
 
-    <section class="section social" style="text-align:center">
+    <section class="conatact" style="text-align:center">
       <h2>Follow Soren Blu</h2>
       <a href="https://www.instagram.com/sorenblu.music?igsh=ZmxsbjFhdG1vN3U2&utm_source=qr" target="_blank">
         Instagram @sorenblu.music
